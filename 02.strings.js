@@ -1,6 +1,7 @@
 "use strict";
+
 const playString = () =>{
- return ;
+    return ;
 };
 
 console.log(playString());
